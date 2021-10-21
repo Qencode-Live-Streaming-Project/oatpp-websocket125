@@ -25,7 +25,7 @@
 #ifndef oatpp_websocket_AsyncConnectionHandler_hpp
 #define oatpp_websocket_AsyncConnectionHandler_hpp
 
-#include "./AsyncWebSocket.hpp"
+#include "AsyncWebSocket.hpp"
 
 #include "oatpp/core/async/Executor.hpp"
 #include "oatpp/network/ConnectionHandler.hpp"

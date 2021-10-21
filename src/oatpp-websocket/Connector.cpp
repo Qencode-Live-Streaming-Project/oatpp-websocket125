@@ -24,7 +24,7 @@
 
 #include "Connector.hpp"
 
-#include "./Handshaker.hpp"
+#include "Handshaker.hpp"
 
 namespace oatpp { namespace websocket {
 

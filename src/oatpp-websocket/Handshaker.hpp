@@ -25,7 +25,7 @@
 #ifndef oatpp_websocket_Handshaker_hpp
 #define oatpp_websocket_Handshaker_hpp
 
-#include "./WebSocket.hpp"
+#include "WebSocket.hpp"
 
 #include "oatpp/web/protocol/http/outgoing/Response.hpp"
 #include "oatpp/web/protocol/http/outgoing/Request.hpp"

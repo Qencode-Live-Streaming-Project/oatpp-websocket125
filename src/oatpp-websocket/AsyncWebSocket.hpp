@@ -25,8 +25,8 @@
 #ifndef oatpp_websocket_AsyncWebSocket_hpp
 #define oatpp_websocket_AsyncWebSocket_hpp
 
-#include "./Frame.hpp"
-#include "./Config.hpp"
+#include "Frame.hpp"
+#include "Config.hpp"
 
 #include "oatpp/core/data/stream/ChunkedBuffer.hpp"
 #include "oatpp/core/async/Coroutine.hpp"

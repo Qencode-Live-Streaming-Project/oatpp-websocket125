@@ -24,8 +24,8 @@
 
 #include "Handshaker.hpp"
 
-#include "./SHA1.hpp"
-#include "./Utils.hpp"
+#include "SHA1.hpp"
+#include "Utils.hpp"
 
 #include "oatpp/encoding/Base64.hpp"
 

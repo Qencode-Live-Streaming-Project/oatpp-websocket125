@@ -24,7 +24,7 @@
 
 #include "AsyncWebSocket.hpp"
 
-#include "./Utils.hpp"
+#include "Utils.hpp"
 
 #if defined(WIN32) || defined(_WIN32)
   #include <WinSock2.h>

@@ -25,7 +25,7 @@
 #ifndef oatpp_websocket_Utils_hpp
 #define oatpp_websocket_Utils_hpp
 
-#include "./Frame.hpp"
+#include "Frame.hpp"
 #include "oatpp/core/concurrency/SpinLock.hpp"
 #include <random>
 
